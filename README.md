@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi 👋 I'm Harjit Singh Bhadauriya<br><br>💻 CSE Student | Aspiring Software Developer | AI/ML Enthusiast | DSA Practitioner<br><br>---<br><br>## 🧠 About Me<br><br>* 🚀 Building **scalable full-stack applications & AI-driven systems**<br>* 🧩 Strong foundation in **Data Structures, Algorithms & Problem Solving**<br>* 🌱 Currently focused on **React, Backend Engineering & System Design**<br>* 🤝 Open to collaboration on **AI + Full Stack projects**<br><br>---<br><br>⭐ *Consistently learning, building, and improving to become a high-impact software engineer*<br>
+## Hi 👋 I'm Harjit Singh Bhadauriya<br><br>💻 CSE Student | Aspiring Software Developer | AI/ML Enthusiast | DSA Practitioner<br><br>---<br><br> ## 🧠 About Me<br><br>* 🚀 Building **scalable full-stack applications & AI-driven systems**<br>* 🧩 Strong foundation in **Data Structures, Algorithms & Problem Solving**<br>* 🌱 Currently focused on **React, Backend Engineering & System Design**<br>* 🤝 Open to collaboration on **AI + Full Stack projects**<br><br>---<br><br>⭐ *Consistently learning, building, and improving to become a high-impact software engineer*<br>
 
 
 ## 🌐 Socials:
