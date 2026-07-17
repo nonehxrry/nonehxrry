@@ -7,8 +7,8 @@
 I am a Computer Science student building scalable full-stack applications and AI/ML-driven systems, with hands-on experience in predictive modeling, exploratory data analysis, and backend engineering.
 
 - **Current Focus:** Full-stack development (Java/Spring Boot, React, Node.js) and applied Machine Learning
-- **Interests:** Data Science, GenAI, System Design
-- **Education:** B.Tech in Computer Science & Engineering, IILM University (CGPA 8.94)
+- **Interests:** Data Science, GenAI, Machine Learning, LLMs, System Design
+- **Education:** B.Tech in Computer Science & Engineering, IILM University
 
 ---
 
